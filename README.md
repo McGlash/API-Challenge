@@ -13,7 +13,7 @@ But, if pressed, how would you **prove** it?
 
 ## Part I - WeatherPy
 
-I created a [Python script]() to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, I used [simple Python library](https://pypi.python.org/pypi/citipy)  and the [OpenWeatherMap API](https://openweathermap.org/api) to create a representative model of weather across world cities.
+I created a [Python script](starter_code/WeatherPy.ipynb) to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, I used [simple Python library](https://pypi.python.org/pypi/citipy)  and the [OpenWeatherMap API](https://openweathermap.org/api) to create a representative model of weather across world cities.
 
 * Randomly selected **at least** 500 unique (non-repeat) cities based on latitude and longitude.
 * Performed a weather check on each of the cities using a series of successive API calls.
