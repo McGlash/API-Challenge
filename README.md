@@ -26,7 +26,7 @@ I created a [Python script](starter_code/WeatherPy.ipynb) to visualize the weath
 
 ### Part II - VacationPy
 
-I used jupyter-gmaps and the Google Places API to:
+I used jupyter-gmaps and the Google Places API (([file]())to:
 
 * Create a heat map that displays the humidity for every city from the part I.
 
